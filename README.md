@@ -45,12 +45,13 @@ Lot3 is different from the other two sample with a p-value 0.04168 which is lowe
 Selling price, Resale value, Warranty price, Vehicle package, Safty rating, Storage area, Production year
 
 3. In your description, address the following questions:
-What metric or metrics are you going to test?  Production year 
+### What metric or metrics are you going to test?  
+Production year 
 
 ### What is the null hypothesis or alternative hypothesis? 
-**Null hypothesis**: There is a statistical difference in the distributions of vehicle class across different production year. 
+Null hypothesis: There is a statistical difference in the distributions of vehicle class across different production year. 
 
-**Alternative hypothesis**: There is NOT a statistical difference in the distributions of vehicle class across different production year. 
+Alternative hypothesis: There is NOT a statistical difference in the distributions of vehicle class across different production year. 
 
 ### What statistical test would you use to test the hypothesis? And why?
 We will use the **Chi-square test**. It will identify statistical differences between means of distributions from multiple samples.
