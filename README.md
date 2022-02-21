@@ -26,7 +26,7 @@ A: The design of MechaCar suspension soils must not exceed 100 pounds per square
 ### Deliverable 3
 ## T-Tests on Suspension Coils
 **T-test results across all manufacturing lots**
-![d31](screenshoots/d31.png)
+![d31](screenshots/d31.png)
 The aboved picture shows a p-value of 0.06028, which is lower than the common significant level 0.05. In other words, there is not enough evidence to support rejecting the null hypothesis. 
 
 **T-test result of Lot1**
