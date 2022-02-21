@@ -46,7 +46,7 @@ Selling price, Resale value, Warranty price, Vehicle package, Safty rating, Stor
 
 3. In your description, address the following questions:
 ### What metric or metrics are you going to test?  
-Production year 
+Production year, class
 
 ### What is the null hypothesis or alternative hypothesis? 
 Null hypothesis: There is a statistical difference in the distributions of vehicle class across different production year. 
