@@ -49,6 +49,7 @@ What metric or metrics are you going to test?  Production year
 
 ### What is the null hypothesis or alternative hypothesis? 
 **Null hypothesis**: There is a statistical difference in the distributions of vehicle class across different production year. 
+
 **Alternative hypothesis**: There is NOT a statistical difference in the distributions of vehicle class across different production year. 
 
 ### What statistical test would you use to test the hypothesis? And why?
