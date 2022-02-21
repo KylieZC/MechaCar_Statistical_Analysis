@@ -47,12 +47,12 @@ Selling price, Resale value, Warranty price, Vehicle package, Safty rating, Stor
 3. In your description, address the following questions:
 What metric or metrics are you going to test?  Production year 
 
-What is the null hypothesis or alternative hypothesis? 
-null hypothesis: There is a statistical difference in the distributions of vehicle class across different production year. 
-alternative hypothesis: There is NOT a statistical difference in the distributions of vehicle class across different production year. 
+### What is the null hypothesis or alternative hypothesis? 
+**Null hypothesis**: There is a statistical difference in the distributions of vehicle class across different production year. 
+**Alternative hypothesis**: There is NOT a statistical difference in the distributions of vehicle class across different production year. 
 
-What statistical test would you use to test the hypothesis? And why?
-We will use the Chi-square test. It will identify statistical differences between means of distributions from multiple samples.
+### What statistical test would you use to test the hypothesis? And why?
+We will use the **Chi-square test**. It will identify statistical differences between means of distributions from multiple samples.
 
-What data is needed to run the statistical test?
+### What data is needed to run the statistical test?
 We will use the frequency of producing different types of cars in the past two years.
