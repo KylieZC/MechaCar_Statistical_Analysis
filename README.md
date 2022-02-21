@@ -12,7 +12,7 @@ In the summary output, each Pr(>|t|) value represents the probability that each 
 No, the slope of the multiple linear regression model is not equal to zero. Because the p-value is 5.35e-11, which is much smaller than the presumed significance level of 0.05. Therefore, we should **reject the null hypothesis** of the slope being zero.
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-4. 
+
 The R-squared of the linear model is 0.7149, indicating that approximately 71% of the mpg prediction can be explained by this model. For that reason, linear model **does predict** mpg of MechaCar prototypes effectively.
 
 ### Deliverable 2
