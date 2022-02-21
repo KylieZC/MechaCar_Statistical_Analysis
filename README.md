@@ -27,12 +27,16 @@ A: The design of MechaCar suspension soils must not exceed 100 pounds per square
 The aboved picture shows a p-value of 0.06028, which is lower than the common significant level 0.05. In other words, there is not enough evidence to support rejecting the null hypothesis. 
 
 **T-test result of Lot1**
-![32](screenshoots/31.png)
+![32](screenshoots/32.png)
 Lot1 has a exactly 1 p-value and the same mean of 1500. Therefore, there is obviously not evidence to reject the null hypothesis.
 
 **T-test result of Lot2**
-![33](screenshoots/31.png)
+![33](screenshoots/33.png)
 Lot2 with a 0.6072 p-value relatively larger than the common significant level 0.05. Also, it has a similar mean with 1500.Thus, we cannot reject the null hypothesis. 
 
 **T-test result of Lot3**
-![34](screenshoots/31.png)
+![34](screenshoots/34.png)
+Lot3 is different from the other two sample with a p-value 0.04168 which is lower than common significant level 0.05 and a mean of 1496.14. This implies that the null hypothesis should be rejected.
+
+### Deliverable 4
+## Study Design: MechaCar vs Competition
